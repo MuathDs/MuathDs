@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I'm Muath!
 
-<!--
-**MuathDs/MuathDs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** skilled in Python, Pandas, Matplotlib, Seaborn, SQL, and Power BI.  
+💡 Passionate about turning raw data into actionable insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Featured Projects
+
+### [📊 Netflix Data Analysis](https://github.com/MuathDs/netflix-data-analysis)
+Exploratory Data Analysis (EDA) of the Netflix dataset using Python (Pandas & Matplotlib).
+
+### [🏫 NYC SAT Analysis](https://github.com/MuathDs/nyc-sat-analysis)
+Analyzing SAT scores across New York City public schools to uncover trends and insights.
+
+---
+
+## 🛠️ Tools & Technologies
+- Python | Pandas | NumPy | Matplotlib | Seaborn  
+- SQL | Power BI | Excel  
+- Git | GitHub
+
+---
+
+📍 **Location:** Saudi Arabia  
+📧 **Email:** MuathDs@outlook.com  
+🌐 **Portfolio:** [GitHub Profile](https://github.com/MuathDs)
