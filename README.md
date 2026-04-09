@@ -1,38 +1,36 @@
 # 👋 Hey, I'm Muath!
 
 ### 🎓 Management Information Systems (MIS) @ King Khalid University
-**Final Year Student** with a specialized focus on bridging the gap between Business Strategy and Artificial Intelligence.
+**Final Year Student** | Bridging the gap between Complex Data and Strategic Business Decisions.
 
 ---
 
-### 🚀 About Me
-- 🏅 **KAUST AI Academy Alumnus (Stage 2):** Successfully completed intensive training in advanced AI & Machine Learning.
-- 🤖 **AI Architect:** Passionate about building **Multi-Agent Decision Support Systems (DSS)** and **RAG-based solutions**.
-- 💡 **Strategic Thinker:** I don't just write code; I design data-driven systems that solve real-world business problems and optimize operational efficiency.
+### 🚀 Professional Profile
+- 🏅 **KAUST AI Academy Alumnus:** Specialized in advanced AI and Machine Learning through one of the most prestigious programs in the region.
+- 🎓 **Continuous Learner @ DataCamp:** Actively specializing in **Machine Learning & Deep Learning** tracks to master predictive modeling and data engineering.
+- 🤖 **AI Architect:** Expert in designing **Multi-Agent Decision Support Systems (DSS)** and **RAG-based** solutions using Azure OpenAI.
+- 💡 **MIS Strategic Focus:** I don't just build models; I design data-driven infrastructures that optimize business workflows and ensure data privacy.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-| Category | Skills |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, SQL |
-| **AI & ML** | Deep Learning, PyTorch, RAG, Multi-Agent Systems, NLP |
-| **Data Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel |
-| **Cloud & DevOps** | Azure AI Foundry, Microsoft 365 Admin, Git & GitHub |
+| **AI & Machine Learning** | Deep Learning, NLP, RAG Architecture, Multi-Agent Systems |
+| **Data Analytics** | Python (Pandas, NumPy, Seaborn), SQL, Power BI, Excel |
+| **Cloud & Infrastructure** | Azure AI Foundry, Microsoft 365 Admin, Git/GitHub |
+| **Learning & Research** | DataCamp Specialized Tracks, KAUST AI Research Principles |
 
 ---
 
 ### 🌟 Featured Projects
 
 #### 🤖 [Enterprise Multi-Agent DSS](https://github.com/MuathDs/Enterprise-Multi-Agent-DSS)
-An advanced AI-driven system built on **Azure OpenAI**. It uses an **Orchestrator** to route business queries to specialized Agents (HR, Finance, IT) using RAG technology to ensure data privacy and accuracy.
+A sophisticated corporate AI system. It features an **Orchestrator** that intelligently routes queries to specialized Sub-Agents (HR, Finance, IT) while maintaining strict data isolation and security.
 
-#### 📉 [Project-Risk-AI](https://github.com/MuathDs/Project-Risk-AI)
-Leveraging Machine Learning models to predict and mitigate project risks, combining MIS principles with predictive analytics.
-
-#### 📊 [Netflix & NYC SAT Analysis](https://github.com/MuathDs/netflix-data-analysis)
-Exploratory Data Analysis (EDA) projects that transform raw datasets into actionable business insights.
+#### 📈 [Project-Risk-AI](https://github.com/MuathDs/Project-Risk-AI)
+An AI-driven approach to identifying and mitigating organizational risks, merging MIS principles with predictive analytics.
 
 ---
 
